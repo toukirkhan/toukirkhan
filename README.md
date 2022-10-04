@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Mohd Toukir Khan</h1>
-<h3 align="center">A passionate learner, cloud computing intermediate and frontend developer from India</h3>
+<h1 align="center">Hi there 👋, I'm Mohd Toukir Khan</h1>
+<h3 align="center">A passionate Learner, Cloud computing intermediate and Frontend developer from India.</h3>
 
 - 🔭 I’m currently working on **open-source contributions.**
 
 - 🌱 I’m currently learning **Web Development.**
 
-- 💬 Ask me about **Cloud computing, web-dev.**
+- 💬 Ask me about **Cloud computing, Web Development.**
 
 - 📫 How to reach me **totykhan.2001@gmail.com**
 
-- ⚡ Fun fact **I am a marketing expert too.**
+- ⚡ Fun fact **I am an marketing expert too.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
