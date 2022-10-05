@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **totykhan.2001@gmail.com**
 
-- ⚡ Fun fact **I am an marketing expert too.**
+- ⚡ Fun fact **I am a marketing expert too.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
