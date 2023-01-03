@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **totykhan.2001@gmail.com**
 
-- ⚡ Fun fact **I love to play Badminton.**
+- ⚡ Fun fact **I love to play Badminton and Table tennis.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
