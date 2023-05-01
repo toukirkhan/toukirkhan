@@ -32,7 +32,7 @@
 </div>
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=toukirkhan&theme=algolia&background=0d1117&hide_border=true" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=toukirkhan&theme=react-dark"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=toukirkhan&theme=react-dark" />
 </div>
 
 
