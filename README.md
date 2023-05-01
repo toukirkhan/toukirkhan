@@ -20,9 +20,13 @@
 
 - ⚡ Fun fact **I love to play Badminton and Table tennis.**
 
-## Connect with me
-<p align="left">
-<a href="https://twitter.com/_toukirkhan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_toukirkhan_" height="30" width="40" /></a>
+## Connect with me:
+<p align="center">
+
+<a href = "https://www.linkedin.com/in/toukir-khan-499257219/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/_toukirkhan_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/_.toukir_k/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
 </p>
 
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> My GitHub Stats
