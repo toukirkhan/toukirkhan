@@ -1,7 +1,7 @@
 <h1 align="center">Hey everyone, I'm Toukir Khan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Co-founder+at+Codeweb+Community;Frontend+Developer;Open-source+Contributor;Community+builder;Always+learning+new+things"></a>
-<h3 align="center">A passionate Learner, Cloud computing intermediate and Frontend developer from India.</h3>
+<h3 align="center">And I am from India.</h3>
 
 - 🔭 I’m currently working on **open-source contributions.**
 
