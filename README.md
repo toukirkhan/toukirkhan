@@ -33,6 +33,8 @@ Facilitated 45 students in Google Cloud Career Practitioner Program and conducte
 
 Hackthon Evangelist for Hack this Fall 3.0
 
+Volunteered for CodeDay Durg and CodeDay Nagpur.
+
 
 ## Connect with me:
 <p align="center">
