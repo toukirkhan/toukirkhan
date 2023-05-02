@@ -64,8 +64,4 @@ Volunteered for CodeDay Durg and CodeDay Nagpur.
 ![](https://komarev.com/ghpvc/?username=toukirkhane&color=blueviolet&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 <a href="https://github.com/toukirkhan?tab=followers"><img src="https://img.shields.io/github/followers/toukirkhan?label=Followers&style=social" alt="GitHub Badge"></a>
 
-
-
-
-
-
+## <h3 align="center"> Have a nice day! <h3>
