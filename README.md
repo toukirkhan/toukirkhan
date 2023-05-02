@@ -12,7 +12,7 @@
   <li><b>📣 Languages:</b> English & Hindi</li>
 </ul>
 
-## Some more facts about me
+## Some facts about me
 - 🔭 I’m currently working on **Open-source contributions and Community Building**
 - 🌱 I’m currently learning **Web Development.**
 - 💬 Ask me about **Cloud computing, Web Development.**
