@@ -20,6 +20,18 @@
 - 📫 How to reach me **totykhan.2001@gmail.com**
 - ⚡ Fun fact **I love to play Badminton and Table tennis.**
 
+## Volunteering and Community Experiences
+Beta Microsoft Learn Student Ambassador.
+
+Postman Student Leader.
+
+Marketing core team at Google Developer Students Club.
+
+Hosted GDG DevFest Bhilai 2022.
+
+Facilitated 45 students in Google Cloud Career Practitioner Program and conducted sessions virtually.
+
+
 ## Connect with me:
 <p align="center">
 
