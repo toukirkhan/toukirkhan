@@ -2,16 +2,9 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Co-founder+at+Codeweb+Community;Frontend+Developer;Open-source+Contributor;Community+builder;Always+learning+new+things"></a>
 
-<br>
-
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=toukirkhan&label=Profile%20views&color=0047AB&style=plastic?" alt="toukirkhan" height=20px, width=120px/> 
-</p>
-
 ## <picture><img src = "https://github.com/toukirkhan/toukirkhan/blob/main/assets/about_me.gif?raw=true" width = 50px></picture> About me
 <picture> <img align="right" src="https://github.com/toukirkhan/toukirkhan/blob/main/assets/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br><br>
 <ul>
   <li><b>👤 Name: </b> Mohd Toukir Khan</li>
   <li><b>😄 Pronouns:</b>  He/Him</li>
@@ -19,14 +12,12 @@
   <li><b>📣 Languages:</b> English & Hindi</li>
 </ul>
 
-- 🔭 I’m currently working on **open-source contributions.**
-
+## Some more facts about me
+- 🔭 I’m currently working on **Open-source contributions and Community Building**
 - 🌱 I’m currently learning **Web Development.**
-
 - 💬 Ask me about **Cloud computing, Web Development.**
-
+- 🤝 I’m looking for **DevRel/Program Manager/Community Manager Internships.**
 - 📫 How to reach me **totykhan.2001@gmail.com**
-
 - ⚡ Fun fact **I love to play Badminton and Table tennis.**
 
 ## Connect with me:
@@ -47,6 +38,11 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=toukirkhan&theme=algolia&background=0d1117&hide_border=true" />
   <a href="https://github.com/toukirkhan/github-readme-activity-graph"><img height="280em" alt="Toukir's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=toukirkhan&theme=algolia&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>	
 </div>
+
+## ❤ Views and Followers
+
+![](https://komarev.com/ghpvc/?username=toukirkhane&color=blueviolet&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
+<a href="https://github.com/toukirkhan?tab=followers"><img src="https://img.shields.io/github/followers/toukirkhan?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
 
