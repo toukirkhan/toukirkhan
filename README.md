@@ -31,6 +31,8 @@ Hosted GDG DevFest Bhilai 2022.
 
 Facilitated 45 students in Google Cloud Career Practitioner Program and conducted sessions virtually.
 
+Hackthon Evangelist for Hack this Fall 3.0
+
 
 ## Connect with me:
 <p align="center">
