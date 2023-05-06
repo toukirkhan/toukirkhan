@@ -41,7 +41,7 @@ Volunteered for CodeDay Durg and CodeDay Nagpur.
 [![Linkedin Badge](https://img.shields.io/badge/-toukirkhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/toukirkhan/)](https://www.linkedin.com/in/toukirkhan/)
 [![Twitter Badge](https://img.shields.io/badge/-@__toukirkhan__-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_toukirkhan_)](https://twitter.com/_toukirkhan_)
 [![Instagram Badge](https://img.shields.io/badge/-@__.toukir__k-f56040?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/_.toukir_k/)](https://instagram.com/_.toukir_k)
-[![Gmail Badge](https://img.shields.io/badge/-totykhan.2001t@gmail.com-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:totykhan.2001@gmail.com)](mailto:totykhan.2001t@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-totykhan.2001@gmail.com-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:totykhan.2001@gmail.com)](mailto:totykhan.2001@gmail.com)
 
 </p>
 
