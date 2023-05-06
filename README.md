@@ -11,7 +11,7 @@
   <li><b>📍 Location:</b> Durg, Chhattisgarh, India</li>
   <li><b>📣 Languages:</b> English & Hindi</li>
 </ul>
-
+[![@toukirkhan's Holopin board](https://holopin.me/toukirkhan)](https://holopin.io/@toukirkhan)
 ## Some facts about me
 - 🔭 I’m currently working on **Open-source contributions and Community Building**
 - 🌱 I’m currently learning **Web Development.**
@@ -59,7 +59,7 @@ Volunteered for CodeDay Durg and CodeDay Nagpur.
   <a href="https://github.com/toukirkhan/github-readme-activity-graph"><img height="280em" alt="Toukir's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=toukirkhan&theme=algolia&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>	
 </div>
 
-[![@toukirkhan's Holopin board](https://holopin.me/toukirkhan)](https://holopin.io/@toukirkhan)
+
 
 
 ## ❤ Views and Followers
