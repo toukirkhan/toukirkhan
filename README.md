@@ -38,9 +38,10 @@ Volunteered for CodeDay Durg and CodeDay Nagpur.
 ## Connect with me:
 <p align="center">
 
-<a href = "https://www.linkedin.com/in/toukir-khan-499257219/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/_toukirkhan_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/_.toukir_k/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+[![Linkedin Badge](https://img.shields.io/badge/-toukirkhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/toukirkhan/)](https://www.linkedin.com/in/toukirkhan/)
+[![Twitter Badge](https://img.shields.io/badge/-@_toukirkhan_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_toukirkhan_)](https://twitter.com/_toukirkhan_)
+[![Instagram Badge](https://img.shields.io/badge/-@_.toukir_k-f56040?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/_.toukir_k/)](https://instagram.com/_.toukir_k)
+[![Gmail Badge](https://img.shields.io/badge/-dewansh.dt@gmail.com-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:totykhan.2001@gmail.com)](mailto:totykhan.2001t@gmail.com)
 
 </p>
 
