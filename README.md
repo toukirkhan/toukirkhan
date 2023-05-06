@@ -12,7 +12,7 @@
   <li><b>📣 Languages:</b> English & Hindi</li>
 </ul>
 
-[![@toukirkhan's Holopin board](https://holopin.me/toukirkhan)](https://holopin.io/@toukirkhan)
+
 
 ## Some facts about me
 - 🔭 I’m currently working on **Open-source contributions and Community Building**
