@@ -20,7 +20,7 @@
 - 💬 Ask me about **Cloud computing, Web Development.**
 - 🤝 I’m looking for **DevRel/Program Manager/Community Manager Internships.**
 - 📫 How to reach me **totykhan.2001@gmail.com**
-- ⚡ Fun fact **I love to play Badminton and Table tennis.**
+- ⚡ Fun fact **I love to play Badminton.**
 
 ## Volunteering and Community Experiences
 Beta Microsoft Learn Student Ambassador.
