@@ -27,6 +27,8 @@ Beta Microsoft Learn Student Ambassador.
 
 Postman Student Leader.
 
+Streamlit student Ambassador.
+
 Marketing core team at Google Developer Students Club.
 
 Hosted GDG DevFest Bhilai 2022.
