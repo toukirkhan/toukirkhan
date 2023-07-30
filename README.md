@@ -31,6 +31,8 @@ Streamlit student Ambassador.
 
 Marketing core team at Google Developer Students Club.
 
+Hosted Google I/O Extended Bhilai 2023 with 200+ attendees.
+
 Hosted GDG DevFest Bhilai 2022.
 
 Facilitated 45 students in Google Cloud Career Practitioner Program and conducted sessions virtually.
