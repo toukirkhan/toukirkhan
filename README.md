@@ -1,6 +1,6 @@
 <h1 align="center">Hey everyone, I'm Toukir Khan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Co-founder+at+Codeweb+Community;Frontend+Developer;Open-source+Contributor;Community+builder;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Organizer+at+Mozilla+Durg;Frontend+Developer;Open-source+Contributor;Community+builder;Always+learning+new+things"></a>
 
 ## About me
 <picture> <img align="right" src="https://github.com/toukirkhan/toukirkhan/blob/main/assets/mona.gif?raw=true" width = 180px></picture>
@@ -15,10 +15,10 @@
 
 
 ## Some facts about me
-- 🔭 I’m currently working on **Open-source contributions and Community Building**
+- 🔭 I’m currently working on **Javascript and React**
 - 🌱 I’m currently learning **Web Development.**
 - 💬 Ask me about **Cloud computing, Web Development.**
-- 🤝 I’m looking for **DevRel/Program Manager/Community Manager Internships.**
+- 🤝 I’m looking for **Frontend Developer/Program Manager/Community Manager roles.**
 - 📫 How to reach me **totykhan.2001@gmail.com**
 - ⚡ Fun fact **I love to play Badminton.**
 
@@ -28,7 +28,7 @@ Beta Microsoft Learn Student Ambassador.
 Postman Student Leader.
 
 Streamlit student Ambassador.
-
+ 
 Marketing core team at Google Developer Students Club.
 
 Hosted Google I/O Extended Bhilai 2023 with 200+ attendees.
