@@ -15,12 +15,12 @@
 
 
 ## Some facts about me
-- 🔭 I’m currently working on **Javascript and React**
-- 🌱 I’m currently learning **Web Development.**
-- 💬 Ask me about **Cloud computing, Web Development.**
-- 🤝 I’m looking for **Frontend Developer/Program Manager/Community Manager roles.**
+- 🔭 I’m currently working on **Keras Community Day Durg**
+- 🌱 I’m currently learning **Javascript.**
+- 💬 Ask me about **Cloud computing, Web Development**
+- 🤝 I’m looking for **Frontend Developer/Program Manager/Community Manager roles**
 - 📫 How to reach me **totykhan.2001@gmail.com**
-- ⚡ Fun fact **I love to play Badminton.**
+- ⚡ Fun fact **I love to play Badminton**
 
 ## Volunteering and Community Experiences
 Beta Microsoft Learn Student Ambassador.
