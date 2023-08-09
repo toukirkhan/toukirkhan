@@ -27,8 +27,6 @@ Beta Microsoft Learn Student Ambassador.
 
 Postman Student Leader.
 
-Streamlit student Ambassador.
- 
 Hosted Google I/O Extended Bhilai 2023 with 200+ attendees.
 
 Hosted GDG DevFest Bhilai 2022.
