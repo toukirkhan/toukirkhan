@@ -17,7 +17,7 @@
 ## Some facts about me
 - 🔭 I’m currently working on **Keras Community Day Durg**
 - 🌱 I’m currently learning **Javascript.**
-- 💬 Ask me about **Cloud computing, Web Development**
+- 💬 Ask me about **Communities, Cloud computing, Frontend Development**
 - 🤝 I’m looking for **Frontend Developer/Program Manager/Community Manager roles**
 - 📫 How to reach me **totykhan.2001@gmail.com**
 - ⚡ Fun fact **I love to play Badminton**
