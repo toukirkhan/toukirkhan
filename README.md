@@ -26,7 +26,7 @@ Beta Microsoft Learn Student Ambassador.
 
 Postman Student Leader.
 
-Hosted [Google I/O Extended Bhilai 2023](https://twitter.com/_toukirkhan_/status/1688783633799389185?s=20) with 200+ attendees.
+Hosted [Google I/O Extended Bhilai 2023](https://twitter.com/_toukirkhan_/status/1686703118367809536?s=20) with 200+ attendees.
 
 Hosted GDG DevFest Bhilai 2022.
 
@@ -34,7 +34,7 @@ Facilitated 80+ students in Google Cloud Career Practitioner Program and conduct
 
 Hackthon Evangelist for Hack this Fall 3.0
 
-Volunteered for CodeDay Durg and CodeDay Nagpur.
+Volunteered for [CodeDay Durg](https://twitter.com/_toukirkhan_/status/1688783633799389185?s=20) and CodeDay Nagpur.
 
 ## Connect with me:
 <p align="center">
