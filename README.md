@@ -47,7 +47,7 @@ Beta Microsoft Learn Student Ambassador.
 
 </p>
 
-## Certfications
+## Certfications and Badges
 
 <p align="center">
   
