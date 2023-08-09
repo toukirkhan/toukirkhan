@@ -26,7 +26,7 @@ Beta Microsoft Learn Student Ambassador.
 
 Postman Student Leader.
 
-Hosted Google I/O Extended Bhilai 2023 with 200+ attendees.
+Hosted [Google I/O Extended Bhilai 2023](https://twitter.com/_toukirkhan_/status/1688783633799389185?s=20) with 200+ attendees.
 
 Hosted GDG DevFest Bhilai 2022.
 
