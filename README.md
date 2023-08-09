@@ -51,7 +51,7 @@ Beta Microsoft Learn Student Ambassador.
 
 <p align="center">
   
-  My Google Cloud badges on my [skills boost account](https://www.cloudskillsboost.google/public_profiles/73a13f5c-52a6-4f21-8c37-3a0ad0a67be1)
+Google Cloud badges on my [skills boost account](https://www.cloudskillsboost.google/public_profiles/73a13f5c-52a6-4f21-8c37-3a0ad0a67be1)
   
   Azure AZ-900 Certfication [badge](https://www.credly.com/badges/ed32f4fd-ea38-4624-9000-0d912f8dfcfa/public_url)
 
