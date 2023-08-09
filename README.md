@@ -23,7 +23,7 @@
 
 ## Volunteering and Community Experiences
 
-Postman Student Leader.
+**Postman Student Leader.**
 
 Hosted [Google I/O Extended Bhilai 2023](https://twitter.com/_toukirkhan_/status/1686703118367809536?s=20) with 200+ attendees.
 
@@ -35,7 +35,7 @@ Facilitated 80+ students in Google Cloud Career Practitioner Program and conduct
 
 Volunteered for [CodeDay Durg](https://twitter.com/_toukirkhan_/status/1688783633799389185?s=20) and CodeDay Nagpur.
 
-Beta Microsoft Learn Student Ambassador.
+**Beta Microsoft Learn Student Ambassador.**
 
 ## Connect with me:
 <p align="center">
