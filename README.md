@@ -33,6 +33,8 @@ Hosted GDG DevFest Bhilai 2022.
 
 Facilitated 80+ students in Google Cloud Career Practitioner Program and conducted sessions virtually.
 
+Delivered workshops on Git, GitHub and APIs for several students.
+
 [Hackthon Evangelist](https://certificate.givemycertificate.com/c/63ce48e0-91b7-4dc6-a19c-6e90bfa0c111) for Hack this Fall 3.0
 
 Volunteered for [CodeDay Durg](https://twitter.com/_toukirkhan_/status/1688783633799389185?s=20) and CodeDay Nagpur.
