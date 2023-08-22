@@ -5,7 +5,7 @@
 <picture> <img align="right" src="https://github.com/toukirkhan/toukirkhan/blob/main/assets/mona.gif?raw=true" width = 180px></picture>
 
 <ul>
-  <li><b>👤 Name: </b> Mohd Toukir Khan</li>
+  <li><b>👤 Name: </b> Mohd. Toukir Khan</li>
   <li><b>😄 Pronouns:</b>  He/Him</li>
   <li><b>📍 Location:</b> Bhilai, Chhattisgarh, India</li>
   <li><b>📣 Languages:</b> English, Hindi & Punjabi</li>
