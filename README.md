@@ -25,6 +25,8 @@
 
 **Postman Student Leader.**
 
+[Core Team](https://twitter.com/hackthisfall/status/1693291145454121356?s=20) for Hack This Fall 4.0
+
 Hosted [Google I/O Extended Bhilai 2023](https://twitter.com/_toukirkhan_/status/1686703118367809536?s=20) with 200+ attendees.
 
 Hosted GDG DevFest Bhilai 2022.
