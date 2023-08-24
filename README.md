@@ -27,7 +27,7 @@
 
 [Core Team](https://twitter.com/hackthisfall/status/1693291145454121356?s=20) for Hack This Fall 4.0
 
-Organized [Keras Community Day Durg](https://twitter.com/_toukirkhan_/status/1693656257088127377?s=20) a completely hyrbrid event with 100+ attendees.
+Organized [Keras Community Day Durg](https://twitter.com/_toukirkhan_/status/1693656257088127377?s=20) a completely hybrid event with 100+ attendees.
 
 Hosted [Google I/O Extended Bhilai 2023](https://twitter.com/_toukirkhan_/status/1686703118367809536?s=20) with 200+ attendees.
 
