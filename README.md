@@ -14,7 +14,7 @@
 
 
 ## Some facts about me
-<!--- - 🔭 I’m currently working on **OpIn Talks Podcast Series** --->
+- 🔭 I’m currently working on **OpIn Talks Podcast Series**
 - 🌱 I’m currently learning **Javascript.**
 - 💬 Ask me about **Communities, Cloud computing, Frontend Development**
 - 🤝 I’m looking for **Frontend Developer/Program Manager/Community Manager roles**
