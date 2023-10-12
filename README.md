@@ -17,7 +17,7 @@
 - 🔭 I’m currently working on [**OpInCo's HacktoberWeek 2.0**](https://opinco.vercel.app/hacktoberweek)
 - 🌱 I’m currently learning **Javascript.**
 - 💬 Ask me about **Communities, Cloud computing, Frontend Development**
-- 🤝 I’m looking for **Frontend Developer/Program Manager/Community Manager roles**
+- 🤝 I’m looking for **Frontend Developer/Community Manager roles**
 - 📫 How to reach me **totykhan.2001@gmail.com**
 - ⚡ Fun fact **I love to play Badminton**
 
