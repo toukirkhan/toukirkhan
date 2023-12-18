@@ -14,7 +14,7 @@
 
 
 ## Some facts about me
-- 🔭 I’m currently working on [**OpInCo's HacktoberWeek 2.0**](https://opinco.vercel.app/hacktoberweek)
+<!-- - 🔭 I’m currently working on [**OpInCo's HacktoberWeek 2.0**](https://opinco.vercel.app/hacktoberweek) -->
 - 🌱 I’m currently learning **Javascript.**
 - 💬 Ask me about **Communities, Cloud computing, Frontend Development**
 - 🤝 I’m looking for **Frontend Developer/Community Manager roles**
