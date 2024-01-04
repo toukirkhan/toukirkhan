@@ -25,7 +25,7 @@
 
 **Postman Student Leader.**
 
-[Core Team](https://twitter.com/hackthisfall/status/1693291145454121356?s=20) for Hack This Fall 4.0
+[Organising Team](https://twitter.com/hackthisfall/status/1693291145454121356?s=20) for Hack This Fall 2024
 
 Organized [Keras Community Day Durg](https://twitter.com/_toukirkhan_/status/1693656257088127377?s=20) a completely hybrid event with 100+ attendees.
 
