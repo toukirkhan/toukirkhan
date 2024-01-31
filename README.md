@@ -8,7 +8,7 @@
   <li><b>👤 Name: </b> Mohd. Toukir Khan</li>
   <li><b>😄 Pronouns:</b>  He/Him</li>
   <li><b>📍 Location:</b> Bhilai, Chhattisgarh, India</li>
-  <li><b>📣 Languages:</b> English, Hindi & Punjabi</li>
+  <li><b>📣 Languages:</b> English & Hindi</li>
 </ul>
 
 
