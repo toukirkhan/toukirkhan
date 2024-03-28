@@ -16,8 +16,8 @@
 ## Some facts about me
 <!-- - 🔭 I’m currently working on [**OpInCo's HacktoberWeek 2.0**](https://opinco.vercel.app/hacktoberweek) -->
 - 🌱 I’m currently learning **Javascript.**
-- 💬 Ask me about **Communities, Cloud computing, Frontend Development**
-- 🤝 I’m looking for **Frontend Developer/Community Manager roles**
+- 💬 Ask me about **Communities and Cloud**
+- 🤝 I’m looking for **Community Manager roles**
 - 📫 How to reach me **totykhan.2001@gmail.com**
 - ⚡ Fun fact **I love to play Badminton**
 
@@ -27,13 +27,11 @@
 
 [Organising Team](https://twitter.com/hackthisfall/status/1693291145454121356?s=20) for Hack This Fall 2024
 
+Organized [GDG DevFest Bhilai 2023](https://x.com/toukirkhan_/status/1743563671438303423?s=20) with 350+ attendees.
+
 Organized [Keras Community Day Durg](https://twitter.com/_toukirkhan_/status/1693656257088127377?s=20) a completely hybrid event with 100+ attendees.
 
 Hosted [Google I/O Extended Bhilai 2023](https://twitter.com/_toukirkhan_/status/1686703118367809536?s=20) with 200+ attendees.
-
-Hosted GDG DevFest Bhilai 2022.
-
-Facilitated 80+ students in Google Cloud Career Practitioner Program and conducted sessions virtually.
 
 Delivered workshops on Git, GitHub and APIs for several students.
 
