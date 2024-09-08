@@ -25,7 +25,7 @@
 
 **Postman Student Leader.**
 
-[Organising Team](https://twitter.com/hackthisfall/status/1693291145454121356?s=20) for Hack This Fall 2024
+[Organising Team](https://twitter.com/hackthisfall/status/1693291145454121356?s=20) for Hack This Fall 2024 with 600+ hackers from accross India.
 
 Organized [GDG DevFest Bhilai 2023](https://x.com/toukirkhan_/status/1743563671438303423?s=20) with 350+ attendees.
 
