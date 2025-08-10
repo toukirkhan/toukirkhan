@@ -1,7 +1,6 @@
-<h1 align="center">Hey everyone, I'm Toukir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1>Hey there! <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXhwcnk3c2YwN2Nmc2Rqd2NqNnlwOXA5M3JoczQwY3cxdDBhMjllZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fmaoegzDeM9bNYzGWQ/giphy.gif" width="60"></h2>
 
-
-## About me
+### About me
 <picture> <img align="right" src="https://github.com/toukirkhan/toukirkhan/blob/main/assets/mona.gif?raw=true" width = 180px></picture>
 
 <ul>
