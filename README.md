@@ -1,63 +1,35 @@
 <h1>Hey there! <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXhwcnk3c2YwN2Nmc2Rqd2NqNnlwOXA5M3JoczQwY3cxdDBhMjllZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fmaoegzDeM9bNYzGWQ/giphy.gif" width="60"></h2>
 
-### About me
-<picture> <img align="right" src="https://github.com/toukirkhan/toukirkhan/blob/main/assets/mona.gif?raw=true" width = 180px></picture>
+I am Mohd Toukir Khan, and I'm creating vibrant communities across India while learning and contributing to open-source software for good. Most likely, you'll see me at a conference, hackathon, or meetups sporting a red hoodie with pride and a yellow backpack on my back representing the GitHub Campus Experts Program I am part of. I enjoy discussing open source and scaling communities to provide developers with better opportunities! 🚀
 
-<ul>
-  <li><b>👤 Name: </b> Mohd. Toukir Khan</li>
-  <li><b>😄 Pronouns:</b>  He/Him</li>
-  <li><b>📍 Location:</b> Bhilai, Chhattisgarh, India</li>
-  <li><b>📣 Languages:</b> English & Hindi</li>
-</ul>
-
-
-
-## Some facts about me
-<!-- - 🔭 I’m currently working on [**OpInCo's HacktoberWeek 2.0**](https://opinco.vercel.app/hacktoberweek) -->
-- 🌱 I’m currently learning **Javascript.**
-- 💬 Ask me about **Communities and Cloud**
-- 🤝 I’m looking for **Community Manager roles**
-- 📫 How to reach me **totykhan.2001@gmail.com**
-- ⚡ Fun fact **I love to play Badminton**
-
-## Volunteering and Community Experiences
-
-**Postman Student Leader.**
-
-[Organising Team](https://twitter.com/hackthisfall/status/1693291145454121356?s=20) for Hack This Fall 2024 with 600+ hackers from accross India.
-
-Organized [GDG DevFest Bhilai 2023](https://x.com/toukirkhan_/status/1743563671438303423?s=20) with 350+ attendees.
-
-Organized [Keras Community Day Durg](https://twitter.com/_toukirkhan_/status/1693656257088127377?s=20) a completely hybrid event with 100+ attendees.
-
-Hosted [Google I/O Extended Bhilai 2023](https://twitter.com/_toukirkhan_/status/1686703118367809536?s=20) with 200+ attendees.
-
-Delivered workshops on Git, GitHub and APIs for several students.
-
-[Hackthon Evangelist](https://certificate.givemycertificate.com/c/63ce48e0-91b7-4dc6-a19c-6e90bfa0c111) for Hack this Fall 3.0
-
-Volunteered for [CodeDay Durg](https://twitter.com/_toukirkhan_/status/1688783633799389185?s=20) and CodeDay Nagpur.
-
-**Beta Microsoft Learn Student Ambassador.**
-
-## Connect with me:
-<p align="center">
-
-[![Linkedin Badge](https://img.shields.io/badge/-toukirkhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/toukirkhan/)](https://www.linkedin.com/in/toukirkhan/)
-[![X Badge](https://img.shields.io/badge/-@_toukirkhan__-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/toukirkhan_)](https://x.com/toukirkhan_)
-[![Instagram Badge](https://img.shields.io/badge/-@_toukirkhan___-f56040?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/toukirkhan__/)](https://instagram.com/toukirkhan__)
+- I’m currently building [CodeDay Labs](https://labs.codeday.org/) as a Director for Open Source Partnerships.
+- I'm a distance learning student pursuing an MS in Data Science.
+- GitHub Campus Expert 🚩 Postman Student Leader 🚀 Microsoft Learn Student Ambassador ⭐️
+- I'm currently learning Python.
+- Outside of Tech, I have interests in badminton, aviation, and photography.
+- Pronouns: He/Him
+- Connect with me: 
+[![X Badge](https://img.shields.io/badge/-@_toukirkhan__-000000?style=flat-square&labelColor=000000&logo=x&logoColor=white&link=https://twitter.com/toukirkhan_)](https://x.com/toukirkhan_)
+[![Instagram Badge](https://img.shields.io/badge/-@_toukirkhan___-d62976?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/toukirkhan__/)](https://instagram.com/toukirkhan__)
 [![Gmail Badge](https://img.shields.io/badge/-totykhan.2001@gmail.com-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:totykhan.2001@gmail.com)](mailto:totykhan.2001@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-toukirkhan-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/toukirkhan/)](https://www.linkedin.com/in/toukirkhan/)
 
-</p>
+## Community
 
-## Certfications and Badges
+- Represented CodeDay at The Linux Foundation Conferences like Open Source Summit North America 2025 and KubecCon India 2025.
+- [Organised](https://twitter.com/hackthisfall/status/1693291145454121356?s=20) Hack This Fall 2024 in-person and virtual with 2000+ hackers from across the globe.
+- Delivered workshops on Git, GitHub, Copilot, and APIs for several students.
+- Volunteered for several [CodeDays](https://www.codeday.org/) organized in India, providing dedicated support for success!
+- Organized [GDG DevFest Bhilai 2023](https://x.com/toukirkhan_/status/1743563671438303423?s=20) with 350+ attendees.
+- Supported several Hackathons, Conferences, and Meetups in Central India being a Campus Expert.
 
-<p align="center">
-  
-Google Cloud badges on my [skills boost account](https://www.cloudskillsboost.google/public_profiles/73a13f5c-52a6-4f21-8c37-3a0ad0a67be1)
-  
-  Azure AZ-900 Certfication [badge](https://www.credly.com/badges/ed32f4fd-ea38-4624-9000-0d912f8dfcfa/public_url)
 
-  Postman Student Leader [badge](https://badgr.com/public/assertions/xbHfe2NaRne2tHMhlipWeQ)
- 
-</p>
+
+
+
+
+## Languages and tools
+
+<img src = "https://img.shields.io/badge/CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"> <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"> <img src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"><img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> <img src = "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> <img src = "https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"> <img src = "https://img.shields.io/badge/PYTHON-00599C?style=for-the-badge&logo=python&logoColor=white">
+
+<p align="left"> <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=toukirkhan&layout=compact&theme=radical"/> <img width="354" src="https://github-readme-streak-stats.herokuapp.com?user=toukirkhan&theme=radical"/> </p>
