@@ -45,7 +45,7 @@ Volunteered for [CodeDay Durg](https://twitter.com/_toukirkhan_/status/168878363
 <p align="center">
 
 [![Linkedin Badge](https://img.shields.io/badge/-toukirkhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/toukirkhan/)](https://www.linkedin.com/in/toukirkhan/)
-[![Twitter Badge](https://img.shields.io/badge/-@_toukirkhan__-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/toukirkhan_)](https://twitter.com/toukirkhan_)
+[![X Badge](https://img.shields.io/badge/-@_toukirkhan__-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/toukirkhan_)](https://x.com/toukirkhan_)
 [![Instagram Badge](https://img.shields.io/badge/-@_toukirkhan___-f56040?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/toukirkhan__/)](https://instagram.com/toukirkhan__)
 [![Gmail Badge](https://img.shields.io/badge/-totykhan.2001@gmail.com-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:totykhan.2001@gmail.com)](mailto:totykhan.2001@gmail.com)
 
