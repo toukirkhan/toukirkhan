@@ -10,9 +10,7 @@ I am Mohd Toukir Khan, and I'm creating vibrant communities across India while 
 - Pronouns: He/Him
 - Connect with me: 
 [![X Badge](https://img.shields.io/badge/-@_toukirkhan__-000000?style=flat-square&labelColor=000000&logo=x&logoColor=white&link=https://twitter.com/toukirkhan_)](https://x.com/toukirkhan_)
-[![Instagram Badge](https://img.shields.io/badge/-@_toukirkhan___-d62976?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/toukirkhan__/)](https://instagram.com/toukirkhan__)
 [![Gmail Badge](https://img.shields.io/badge/-totykhan.2001@gmail.com-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:totykhan.2001@gmail.com)](mailto:totykhan.2001@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-toukirkhan-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/toukirkhan/)](https://www.linkedin.com/in/toukirkhan/)
 
 ## Community
 
