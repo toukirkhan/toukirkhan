@@ -5,7 +5,7 @@ I am Mohd Toukir Khan, and I'm creating vibrant communities across India while 
 - I’m currently building [CodeDay Labs](https://labs.codeday.org/) as a Director for Open Source Partnerships.
 - I'm a distance learning student pursuing an MS in Data Science.
 - GitHub Campus Expert 🚩 Postman Student Leader 🚀 Microsoft Learn Student Ambassador ⭐️
-- I'm currently learning Python.
+- I'm currently learning TypeScript.
 - Outside of Tech, I have interests in badminton, aviation, and photography.
 - Pronouns: He/Him
 - Connect with me: 
