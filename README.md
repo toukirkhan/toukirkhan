@@ -2,12 +2,12 @@
 
 I am Mohd Toukir Khan, and I am creating vibrant communities across India while learning and contributing to open-source. Most likely, you will see me at a conference, hackathon, or meetups with a yellow Campus Expert backpack. I enjoy discussing open source and scaling communities! 🚀
 
-- I am currently building [CodeDay Labs](https://labs.codeday.org/) as a Director for Open Source Partnerships.
-- I am a Coach at [Major League Hacking](https://mlh.io/).
-- I am a distance learning student pursuing an MS in Data Science.
+- I am currently building [CodeDay Labs](https://labs.codeday.org/) as a Director for Open Source Partnerships
+- I am a Coach at [Major League Hacking](https://mlh.io/)
+- I am a distance learning student pursuing an MS in Data Science
 - GitHub Campus Expert 🚩 Postman Student Leader 🚀 Microsoft Learn Student Ambassador ⭐️
-- I am currently learning TypeScript.
-- Outside of Tech, I have interests in badminton, aviation, and photography.
+- I am currently learning TypeScript
+- Outside of Tech, I have interests in badminton, aviation, and photography
 - Pronouns: He/Him
 - Connect with me: 
 [![X Badge](https://img.shields.io/badge/-@_toukirkhan__-000000?style=flat-square&labelColor=000000&logo=x&logoColor=white&link=https://twitter.com/toukirkhan_)](https://x.com/toukirkhan_)
