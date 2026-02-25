@@ -1,8 +1,9 @@
 <h1>Hey there! <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXhwcnk3c2YwN2Nmc2Rqd2NqNnlwOXA5M3JoczQwY3cxdDBhMjllZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fmaoegzDeM9bNYzGWQ/giphy.gif" width="60"></h2>
 
-I am Mohd Toukir Khan, and I am creating vibrant communities across India while learning and contributing to open-source. Most likely, you will see me at a conference, hackathon, or meetups sporting a red hoodie and a yellow backpack representing the GitHub Campus Experts Program I am part of. I enjoy discussing open source and scaling communities! 🚀
+I am Mohd Toukir Khan, and I am creating vibrant communities across India while learning and contributing to open-source. Most likely, you will see me at a conference, hackathon, or meetups with a yellow Campus Expert backpack. I enjoy discussing open source and scaling communities! 🚀
 
 - I am currently building [CodeDay Labs](https://labs.codeday.org/) as a Director for Open Source Partnerships.
+- I am a Coach at [Major League Hacking](https://mlh.io/).
 - I am a distance learning student pursuing an MS in Data Science.
 - GitHub Campus Expert 🚩 Postman Student Leader 🚀 Microsoft Learn Student Ambassador ⭐️
 - I am currently learning TypeScript.
