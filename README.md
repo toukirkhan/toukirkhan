@@ -1,11 +1,11 @@
 <h1>Hey there! <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXhwcnk3c2YwN2Nmc2Rqd2NqNnlwOXA5M3JoczQwY3cxdDBhMjllZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fmaoegzDeM9bNYzGWQ/giphy.gif" width="60"></h2>
 
-I am Mohd Toukir Khan, and I'm creating vibrant communities across India while learning and contributing to open-source software for good. Most likely, you'll see me at a conference, hackathon, or meetups sporting a red hoodie with pride and a yellow backpack on my back representing the GitHub Campus Experts Program I am part of. I enjoy discussing open source and scaling communities to provide developers with better opportunities! 🚀
+I am Mohd Toukir Khan, and I am creating vibrant communities across India while learning and contributing to open-source. Most likely, you will see me at a conference, hackathon, or meetups sporting a red hoodie and a yellow backpack representing the GitHub Campus Experts Program I am part of. I enjoy discussing open source and scaling communities! 🚀
 
-- I’m currently building [CodeDay Labs](https://labs.codeday.org/) as a Director for Open Source Partnerships.
-- I'm a distance learning student pursuing an MS in Data Science.
+- I am currently building [CodeDay Labs](https://labs.codeday.org/) as a Director for Open Source Partnerships.
+- I am a distance learning student pursuing an MS in Data Science.
 - GitHub Campus Expert 🚩 Postman Student Leader 🚀 Microsoft Learn Student Ambassador ⭐️
-- I'm currently learning TypeScript.
+- I am currently learning TypeScript.
 - Outside of Tech, I have interests in badminton, aviation, and photography.
 - Pronouns: He/Him
 - Connect with me: 
@@ -19,11 +19,7 @@ I am Mohd Toukir Khan, and I'm creating vibrant communities across India while 
 - Delivered workshops on Git, GitHub, Copilot, and APIs for several students.
 - Volunteered for several [CodeDays](https://www.codeday.org/) organized in India, providing dedicated support for success!
 - Organized [GDG DevFest Bhilai 2023](https://x.com/toukirkhan_/status/1743563671438303423?s=20) with 350+ attendees.
-- Supported several Hackathons, Conferences, and Meetups in Central India being a Campus Expert.
-
-
-
-
+- Supported several Hackathons, Conferences, and Meetups in Central India as a GitHub Campus Expert.
 
 
 ## Languages and tools
