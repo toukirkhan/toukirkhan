@@ -15,7 +15,7 @@ I am Mohd Toukir Khan, and I am creating vibrant communities across India whileÂ
 
 ## Community
 
-- Represented CodeDay at The Linux Foundation Conferences like Open Source Summit North America 2025 and KubecCon India 2025.
+- Represented CodeDay at Open Source Summit North America 2025, 2026, and KubecCon India 2025.
 - [Organised](https://twitter.com/hackthisfall/status/1693291145454121356?s=20) Hack This Fall 2024 in-person and virtual with 2000+ hackers from across the globe.
 - Delivered workshops on Git, GitHub, Copilot, and APIs for several students.
 - Volunteered for several [CodeDays](https://www.codeday.org/) organized in India, providing dedicated support for success!
